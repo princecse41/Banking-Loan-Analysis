@@ -287,7 +287,7 @@ The dashboard helps answer important business questions such as:
 
 <img width="1447" height="787" alt="Overview screenshot" src="https://github.com/user-attachments/assets/3fc0deba-0fdb-4281-94ac-5398fba0c192" />
 
-## Detaild
+## Details
 
 <img width="1439" height="788" alt="Detaild Screenshot" src="https://github.com/user-attachments/assets/047c4c2e-46a6-4b93-8f1c-c0c2cf295510" />
 
